@@ -1,10 +1,10 @@
 <scheme name="Cobalt 2 (Wesbos Style)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-05-07T17:22:21</property>
+    <property name="created">2021-05-07T17:27:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-05-07T17:22:55</property>
+    <property name="modified">2021-05-07T17:27:24</property>
     <property name="originalScheme">_@user_Cobalt 2 (Wesbos Style)</property>
   </metaInfo>
   <console-font>
@@ -20,7 +20,7 @@
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2240" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="122738" />
     <option name="DOCUMENTATION_COLOR" value="3f5e" />
     <option name="GUTTER_BACKGROUND" value="173042" />
     <option name="INDENT_GUIDE" value="325167" />
@@ -351,7 +351,7 @@
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e5bf00" />
+        <option name="FOREGROUND" value="ffc600" />
         <option name="BACKGROUND" value="ffc600" />
       </value>
     </option>
@@ -1145,7 +1145,7 @@
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff9d00" />
+        <option name="FOREGROUND" value="ffc600" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
