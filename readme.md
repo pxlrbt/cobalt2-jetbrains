@@ -6,7 +6,7 @@ Adjusted with PhpStorm for (X)HTML, CSS/SASS, JS, PHP, JSON, YML extensions.
 
 ![Screenshot](screenshot.png)
 ## Install
-1. Zip src folder `make`
+1. Bundle src folder by running `make` OR download .jar file from GitHub release
 2. Open Jetbrains IDE
 3. Go to Settings > Plugins > Install Plugin from disk ...
 4. Select "Cobalt2_Wesbos.jar"
