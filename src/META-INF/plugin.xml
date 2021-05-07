@@ -1,11 +1,11 @@
 <idea-plugin>
-  <id>color.scheme.cobalt2-wesbos</id>
-  <name>Cobalt2 (Wesbos Style)</name>
+  <id>color.scheme.cobalt2</id>
+  <name>Cobalt2</name>
   <version>0.1</version>
   <vendor email="info@pixelarbeit.de" url="https://pixelarbeit.de">Dennis Koch</vendor>
 
   <description><![CDATA[
-      Remake of Wesbos' Cobalt2 Theme for Jetbrans IDE.
+      Remake of Wesbos' Cobalt2 Theme for Jetbrains IDE.
 
       This is a complete UI Theme for your Jetbrains IDE. <br>
       After installing you can select the new theme with Preferences --> Appearance & Behavior --> Appearance --> Theme --> Select "Cobalt 2"<br>
@@ -22,6 +22,6 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="e99fcd1b-7fd0-4152-9514-f5e9dffa40b7" path="/Cobalt2_Wesbos.theme.json"/>
+    <themeProvider id="e99fcd1b-7fd0-4152-9514-f5e9dffa40b7" path="/Cobalt2.theme.json"/>
   </extensions>
 </idea-plugin>

@@ -1,8 +1,8 @@
 {
-  "name": "Cobalt2 (Wesbos Style)",
+  "name": "Cobalt2",
   "author": "Dennis Koch <info@pixelarbeit.de>",
   "dark": true,
-  "editorScheme": "/Cobalt2_Wesbos.xml",
+  "editorScheme": "/Cobalt2.xml",
   "colors": {
     "basicBackground": "#193549",
     "secondaryBackground": "#122738",

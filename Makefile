@@ -1,2 +1,2 @@
 bundle:
-	cd src && zip -r ../Cobalt2_Wesbos.jar *
+	cd src && zip -r ../Cobalt2.jar *
