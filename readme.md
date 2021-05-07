@@ -4,5 +4,6 @@ Remake of [Wesbos' Cobalt2 Theme](https://github.com/wesbos/cobalt2-vscode) for 
 
 Tested with (X)HTML, CSS/SASS, JS, PHP, JSON, YML.
 
+![Screenshot](screenshot.png)
 ## Install
 - Settings > Plugins > Install Plugin from disk ... > Select "Cobalt2_Wesbos.jar"
